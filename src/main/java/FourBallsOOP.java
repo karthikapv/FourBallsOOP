@@ -10,7 +10,7 @@ public class FourBallsOOP extends PApplet {
     private final List<Ball> ballsList = new ArrayList<>();
 
     public static void main(String[] args) {
-        PApplet.main("FourBallsOOP");
+        PApplet.main ("FourBallsOOP");
     }
 
     @Override
